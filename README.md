@@ -1,7 +1,7 @@
 # Examen_David_Ruiz_Luque_30-03-2023
 
 
-https://github.com/davidruiiz/Examen_David_Ruiz_Luque_30-03-2023.git
+https://github.com/davidruiiz/Parcial_22_23_DAVID_RUIZ.git
 
 
 ## Instalar las dependencias
